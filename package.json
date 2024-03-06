@@ -1,7 +1,6 @@
 {
   "name": "backend_3_array",
   "version": "1.0.0",
-  "description": "",
   "main": "principal_array.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
